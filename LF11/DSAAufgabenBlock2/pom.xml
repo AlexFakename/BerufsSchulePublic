@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.priester.industries</groupId>
-    <artifactId>datenstrukturenAufgabenBlock2</artifactId>
+    <artifactId>DSAAufgabenBlock2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -22,5 +22,15 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+    <plugins>
+        <plugin>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>21</source>
+                <target>21</target>
+            </configuration>
+        </plugin>
+    </plugins>
 
 </project>

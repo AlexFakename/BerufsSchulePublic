@@ -1,6 +1,7 @@
+package org.priester.industries;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.priester.industries.Aufgabe2;
 
 import java.util.ArrayList;
 import java.util.List;

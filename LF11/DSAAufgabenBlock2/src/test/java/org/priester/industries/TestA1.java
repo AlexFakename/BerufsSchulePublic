@@ -1,6 +1,7 @@
+package org.priester.industries;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.priester.industries.Aufgabe1;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

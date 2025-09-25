@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ec3e8c9a-a780-479c-b933-f22d63377975" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/priester/industries/Aufgabe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/priester/industries/Aufgabe3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
     "JUnit.TestA3.executor": "Run",
     "JUnit.TestA3.testReverse.executor": "Run",
     "JUnit.TestA4.executor": "Run",
+    "JUnit.TestA5.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -120,6 +120,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/priester/industries/Aufgabe4.java</url>
           <line>51</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/priester/industries/Aufgabe5.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

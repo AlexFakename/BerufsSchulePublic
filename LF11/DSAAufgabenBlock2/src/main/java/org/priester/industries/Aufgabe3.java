@@ -27,7 +27,6 @@ public class Aufgabe3 {
     }
 
     private Node nodes;
-    private Node last;
 
     public Aufgabe3() {
         this.nodes = null;

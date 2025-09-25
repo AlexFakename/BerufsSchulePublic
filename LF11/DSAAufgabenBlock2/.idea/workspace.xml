@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec3e8c9a-a780-479c-b933-f22d63377975" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/src/main/java/org/priester/industries/Aufgabe1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/src/main/java/org/priester/industries/Aufgabe2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/src/main/java/org/priester/industries/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/src/test/java/TestA1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DSA Aufgaben Block2/src/test/java/TestA2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/priester/industries/Aufgabe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/priester/industries/Aufgabe3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +41,7 @@
     "JUnit.TestA2.executor": "Run",
     "JUnit.TestA3.executor": "Run",
     "JUnit.TestA3.testReverse.executor": "Run",
+    "JUnit.TestA4.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -122,8 +113,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/priester/industries/Aufgabe3.java</url>
-          <line>84</line>
+          <line>83</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/priester/industries/Aufgabe4.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
